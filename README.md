@@ -25,4 +25,4 @@ The goal of this analysis is to identify:
 ## Power BI Dashboard
 (Add Power BI link here)
 
-![Dashboard Preview](superstore_data_analysis.png)
+![Dashboard Preview](superstore_data_analysis.PNG)
