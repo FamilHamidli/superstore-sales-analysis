@@ -20,9 +20,9 @@ The goal of this analysis is to identify:
 - Certain regions outperform others in profitability
 ---
 ## Dashboard Preview
-(Add screenshot here)
+![Dashboard Preview](superstore_data_analysis.PNG)
 ---
 ## Power BI Dashboard
-(Add Power BI link here)
+[View Dashboard](https://app.powerbi.com/links/XM4thv3fpe?ctid=a43125d1-0f89-4fa4-99ab-5474c89fdd42&pbi_source=linkShare)
 
-![Dashboard Preview](superstore_data_analysis.PNG)
+
